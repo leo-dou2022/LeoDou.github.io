@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Wenhao (Leo) Dou. I am a current PhD student at Department of [Animal Nutrition Physiology](https://www.uni-goettingen.de/en/18186.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/). 
-
-I will be supervised by [Prof. Dr. Wolfgang Siegert](https://www.uni-goettingen.de/en/675560.html) during the study. My work mainly focuses on the protein supply of non-ruminants (poultry, pigs) regarding the utilisation of feed protein through meta-analyses with potential method development included.
+This is Wenhao (Leo) Dou. I am a current PhD student at Department of [Animal Nutrition Physiology](https://www.uni-goettingen.de/en/18186.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/). I will be supervised by [Prof. Dr. Wolfgang Siegert](https://www.uni-goettingen.de/en/675560.html) during the study. My work mainly focuses on the protein supply of non-ruminants (poultry, pigs) regarding the utilisation of feed protein through meta-analyses with potential method development included.
 
 What's new
 ======
