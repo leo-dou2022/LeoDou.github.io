@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a current PhD student at Department of Animal Nutrition Physiology (https://www.uni-goettingen.de/en/18186.html), Georg-August-Universität Göttingen (https://www.uni-goettingen.de/). My work mainly focuses on the protein supply of non-ruminants (poultry, pigs) regarding the utilisation of feed protein through meta-analyses and other similar methodology.
+I am a current PhD student at Department of Animal Nutrition Physiology ([https://www.uni-goettingen.de/en/18186.html]), Georg-August-Universität Göttingen ([https://www.uni-goettingen.de/]). My work mainly focuses on the protein supply of non-ruminants (poultry, pigs) regarding the utilisation of feed protein through meta-analyses and other similar methodology.
 
 A data-driven personal website
 ======
