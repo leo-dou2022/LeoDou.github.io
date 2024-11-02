@@ -1,21 +1,22 @@
 ---
 permalink: /
-title: "Greetings! This is Wenhao (Leo) Dou 窦文灏"
-excerpt: "Greetings! This is Wenhao (Leo) Dou 窦文灏"
+title: "Greetings! Leo here 👋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a current PhD student at [Department of Animal Nutrition Physiology](https://www.uni-goettingen.de/en/18186.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/). 
+This is Wenhao (Leo) Dou. I am a current PhD student at Department of [Animal Nutrition Physiology](https://www.uni-goettingen.de/en/18186.html), [Georg-August-Universität Göttingen](https://www.uni-goettingen.de/). 
 
 I will be supervised by [Prof. Dr. Wolfgang Siegert](https://www.uni-goettingen.de/en/675560.html) during the study. My work mainly focuses on the protein supply of non-ruminants (poultry, pigs) regarding the utilisation of feed protein through meta-analyses with potential method development included.
 
 What's new
 ======
 💪11.2024: New journey begins! Enrollment at Göttingen University as a new PhD candidate.
+
 👨‍🎓09.2024: Graduation! Finished my Master's degree at Wageningen University (Wageningen, Netherlands).
+
 ✔️02.2024: Completion! Successfully defended my MSc thesis at Nutrition and Metabolism chairgroup of Wageningen University.
 
 Education
