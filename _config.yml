@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Leo's webpage"
+title                    : "Academic Leo"
 title_separator          : "-"
 name                     : &name "Leo Dou"
 description              : &description "personal description"
@@ -21,9 +21,9 @@ repository               : "leo-dou2022.github.io/academic/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile Photo.png"
+  avatar           : "Profile Photo XL.png"
   name             : "Wenhao (Leo) Dou"
-  pronouns         : "he/they"  
+  pronouns         : #"he/they"  
   bio              : "PhD student Animal Nutrtion Physiology"
   location         : "Göttingen, Germany"
   employer         : "Georg-August-Universität Göttingen"
