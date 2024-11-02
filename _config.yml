@@ -21,12 +21,12 @@ repository               : "leo-dou2022.github.io/academic/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author: Leo Dou
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "profile photo.jpeg"
+  name             : "Wenhao (Leo) Dou"
+  pronouns         : "he/they"  
+  bio              : "PhD student Animal Nutrtion Physiology"
+  location         : "Göttingen, Germany"
+  employer         : "Georg-August-Universität Göttingen"
   uri              : # URL
   email            : "none@example.org" 
 
