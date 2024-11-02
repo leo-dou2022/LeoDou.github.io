@@ -21,7 +21,7 @@ repository               : "leo-dou2022.github.io/academic/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile photo.png"
+  avatar           : "Profile Photo.png"
   name             : "Wenhao (Leo) Dou"
   pronouns         : "he/they"  
   bio              : "PhD student Animal Nutrtion Physiology"
